@@ -18,11 +18,6 @@ Una aplicación de agenda personal moderna y minimalista desarrollada con Python
 - **Validación de datos** automática
 - **Persistencia de datos** en formato JSON
 
-### 🔧 Mejoras Técnicas
-- **Código modular** y bien estructurado
-- **Manejo de errores** mejorado
-- **Compatibilidad** con datos antiguos
-- **Interfaz responsiva** con scroll automático
 
 ## 🚀 Instalación
 
@@ -113,18 +108,5 @@ La aplicación es **compatible** con el formato anterior:
 - ✅ Comentarios y documentación
 - ✅ Manejo de errores mejorado
 
-## 🚧 Próximas Características
-
-- [ ] Edición de eventos existentes
-- [ ] Notificaciones automáticas
-- [ ] Exportar calendario
-- [ ] Temas personalizables
-- [ ] Categorías de eventos con colores
-
-## 💡 Contribuir
-
-¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar la aplicación, no dudes en implementarlas.
-
----
 
 **Disfruta organizando tu tiempo con estilo! 🎯**
